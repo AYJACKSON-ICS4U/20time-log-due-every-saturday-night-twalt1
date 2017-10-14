@@ -8,3 +8,7 @@ My group and I collaborated again. We decided on the story of the game, what it 
 
 8/10/17
 Didn't work on it.
+
+14/10/17
+Created the website, and started working on it
+https://twalt1.github.io/
