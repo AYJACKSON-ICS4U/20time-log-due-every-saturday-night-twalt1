@@ -12,3 +12,9 @@ Didn't work on it.
 14/10/17
 Created the website, and started working on it
 https://twalt1.github.io/
+
+21/10/17
+Worked on the website some more.
+
+28/10/17
+Didn't work in it.
